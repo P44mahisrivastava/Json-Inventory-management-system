@@ -13,3 +13,10 @@ Product Id
 Name
 Quantity
 Price
+
+## My project can do following things
+Generate Bills
+Update Inventory
+Add Intems to Inventory
+Purchase items from inventory
+Sales
