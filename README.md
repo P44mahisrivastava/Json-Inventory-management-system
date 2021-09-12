@@ -17,6 +17,6 @@ Price
 ## My project can do following things
 Generate Bills
 Update Inventory
-Add Intems to Inventory
+Add Items to Inventory
 Purchase items from inventory
 Sales
